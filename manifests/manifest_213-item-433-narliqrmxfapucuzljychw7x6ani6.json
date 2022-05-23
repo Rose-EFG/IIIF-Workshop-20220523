@@ -9,7 +9,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Sorbisches Institut - Serbski Institut / Sorbisches Kulturarchiv - Serbski kulturny archiw",
   "sequences" : [ {
     "@id" : "http://aee58302-ad28-442d-a0c3-107dd1e4e4b6",
     "@type" : "sc:Sequence",
