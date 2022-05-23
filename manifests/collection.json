@@ -1,0 +1,13 @@
+{
+  "id" : "https://Rose-EFG.github.io/IIIF-Workshop-20220523/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Rose-EFG/IIIF-Workshop-20220523 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Rose-EFG.github.io/IIIF-Workshop-20220523/manifests/manifest_213-item-433-narliqrmxfapucuzljychw7x6ani6.json",
+    "label" : "Mädchen in sorbischer katholischer Tracht "
+  } ]
+}
